@@ -1,0 +1,12 @@
+# Python files
+*.pyc
+__pycache__/
+
+# IDE files
+.vscode/
+*.idea/
+*.iml
+
+# Dependencies
+venv/
+env/
